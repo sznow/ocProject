@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!-- 去掉数据库中的下划线，将第一个字母变成大写，转换为javabean里面的相对应的属性 -->
+	<settings>
+		<setting name="mapUnderscoreToCamelCase" value="true" />
+		<!-- 开启mybaties sql语句打印 -->
+		<setting name="logImpl" value="STDOUT_LOGGING" />
+	</settings>
+	
+	
+</configuration>

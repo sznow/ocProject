@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ocCommon/ocCommon.iml" filepath="$PROJECT_DIR$/ocCommon/ocCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocOperator/ocOperator.iml" filepath="$PROJECT_DIR$/ocOperator/ocOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocPortal/ocPortal.iml" filepath="$PROJECT_DIR$/ocPortal/ocPortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocProject.iml" filepath="$PROJECT_DIR$/ocProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocService/ocService.iml" filepath="$PROJECT_DIR$/ocService/ocService.iml" />
+    </modules>
+  </component>
+</project>
